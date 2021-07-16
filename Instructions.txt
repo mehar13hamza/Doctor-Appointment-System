@@ -1,0 +1,23 @@
+Instructions for the Doctor Appiontment System
+
+* Open adminpanel with /doctor
+doc 1:
+	username: 123
+	password: 123
+doc 2:
+	username: 1234
+	password: angela123
+
+- Doctor have to create Schedule for doctor from add schedule page in the  doctor's admin panel
+- Doctor can view/delete appointments
+- Doctor can mark complete the appiontments.
+- Doctor can view/ edit his/her profile
+- Doctor can see all tha patients
+- Doctor can delete Patients
+- Doctor can See the schedules and delete them
+
+
+* For Users signup and login to make bookings and view your appointments
+- User have to select a date and see the available bookings on that day.
+- User can see/edit profile
+- User can see appointments.
